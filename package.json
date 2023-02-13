@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "prettier": "^2.8.4",
-    "prisma": "^3.15.2",
+    "prisma": "^4.10.1",
     "turbo": "1.7.4"
   },
   "engines": {
